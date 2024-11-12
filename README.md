@@ -14,6 +14,9 @@ Program dimulai dengan menginisialisasi sebuah list kosong bernama data_mahasisw
 ### Step 2 : Input Data Mahasiswa dan Perulangan While
 Program kemudian masuk ke dalam sebuah perulangan while yang memungkinkan pengguna untuk memasukkan data mahasiswa secara berulang hingga pengguna memilih untuk berhenti :
 
-> Nama Mahasiswa: Program meminta input nama mahasiswa.
-> Nilai Tugas: Program meminta input nilai tugas mahasiswa dalam bentuk integer.
-> Nilai UAS: Program meminta input nilai UAS mahasiswa dalam bentuk integer.
+> - Nama Mahasiswa: Program meminta input nama mahasiswa.
+> - Nilai Tugas: Program meminta input nilai tugas mahasiswa dalam bentuk integer.
+> - Nilai UTS: Program meminta input nilai UTS mahasiswa dalam bentuk integer.
+> - Nilai UAS: Program meminta input nilai UAS mahasiswa dalam bentuk integer.
+![gambar1](ss/8.png)
+
