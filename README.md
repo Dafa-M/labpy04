@@ -2,7 +2,10 @@ DAFTAR ISI
 ==========
 - [LAPORAN PRAKTIKUM 4](#laporan-praktikum-4)    
     - [CODE PROGRAM NILAI AKHIR](#code-program-nilai-akhir)
+    - [FLOWCHART NILAI AKHIR](#flowchart-nilai-akhir)
+    - [KESIMPULAM](#kesimpulan)
 
+    
 # LAPORAN PRAKTIKUM 4
 
 
