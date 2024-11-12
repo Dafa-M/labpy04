@@ -3,9 +3,9 @@ data_mahasiswa = []
 while True:
     print("\nMasukkan data mahasiswa:")
     nama = input("Nama: ")
-    tugas = float(input("Nilai Tugas: "))
-    uts = float(input("Nilai UTS: "))
-    uas = float(input("Nilai UAS: "))
+    tugas = int(input("Nilai Tugas: "))
+    uts = int(input("Nilai UTS: "))
+    uas = int(input("Nilai UAS: "))
 
     nilai_akhir = (tugas * 0.3) + (uts * 0.35) + (uas * 0.35)
 
