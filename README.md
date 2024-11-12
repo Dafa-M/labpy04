@@ -39,3 +39,13 @@ Setelah menyimpan data, program bertanya kepada pengguna apakah ingin menambah d
 
 ### Step 6 : Print Data Mahasiswa
 Setelah perulangan selesai (pengguna memilih t untuk berhenti menambah data), program akan menampilkan daftar data mahasiswa yang telah dimasukkan. Untuk setiap mahasiswa data yang ditampilkan meliputi nama, nilai tugas, nilai UTS, nilai UAS, dan nilai akhir :
+![gambar1](ss/9.png)
+
+### Step 7 : Output
+Print Output dari eksekusi code program :
+![gambar1](ss/10.png)
+
+### Step 8 : Test Code Program
+Jalankan code program dengan memasukan nama, nilai tugas, nilai uts, nilai uas :
+- Nama : Dafa Maulana Makmudin
+- 
